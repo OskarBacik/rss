@@ -2,7 +2,7 @@
 <!DOCTYPE replace [<!ENTITY example "Doe"> ]>
 <rss version="2.0">
   <channel>
-    <title>Example RSS Feed&example;</title>
+    <title>Example RSS Feed</title>
     <link>https://www.example.com</link>
     <description>This is an example RSS feed</description>
     <language>en-us</language>
