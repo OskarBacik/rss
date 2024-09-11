@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>&example;</title>
+    <title>title</title>
     <link>https://www.example.com</link>
     <description>This is an example RSS feed</description>
     <language>en-us</language>
