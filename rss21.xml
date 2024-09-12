@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>title ${7*7} {{7*7}}</title>
-    <link>gopher://caqv7dhje93k04deqspf2803lurlfi37.oastify.com</link>
+    <link>https://caqv7dhje93k04deqspf2803lurlfi37.oastify.com</link>
     <description><![CDATA[
         <p>This is a <strong>rich HTML description</strong> with an <a href="http://example.com">external link</a>.</p>
       ]]></description>
