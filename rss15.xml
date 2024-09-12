@@ -35,5 +35,16 @@
       <pubDate>Tue, 03 Sep 2024 14:15:00 +0000</pubDate>
       <guid>https://www.example.com/article3</guid>
     </item>
+
+    <item>
+      <title>Example Article</title>
+      <link>http://example.com/article</link>
+      <content:encoded>
+        <![CDATA[
+        <p>This is an example article that references an external resource.</p>
+        <p>Read more at <a href="http://external-site.com/resource">External Site</a>.</p>
+        ]]>
+      </content:encoded>
+    </item>
   </channel>
 </rss>
