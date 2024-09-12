@@ -3,7 +3,9 @@
   <channel>
     <title>title</title>
     <link>gopher://caqv7dhje93k04deqspf2803lurlfi37.oastify.com</link>
-    <description>This is an example RSS feed</description>
+    <description><![CDATA[
+        <p>This is a <strong>rich HTML description</strong> with an <a href="http://example.com">external link</a>.</p>
+      ]]></description>
     <language>en-us</language>
     <pubDate>Fri, 06 Sep 2024 09:00:00 +0000</pubDate>
     <lastBuildDate>Fri, 06 Sep 2024 09:00:00 +0000</lastBuildDate>
