@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>title</title>
+    <link>https://caqv7dhje93k04deqspf2803lurlfi37.oastify.com</link>
+    <description>This is an example RSS feed</description>
+    <language>en-us</language>
+    <pubDate>Fri, 06 Sep 2024 09:00:00 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Sep 2024 09:00:00 +0000</lastBuildDate>
+    <generator>Example RSS Generator</generator>
+
+    <item>
+      <title>Example Item 1</title>
+      <link>https://www.example.com/article1</link>
+      <description>This is the first example item in the RSS feed.</description>
+      <author>author@example.com</author>
+      <pubDate>Thu, 05 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>https://www.example.com/article1</guid>
+    </item>
+
+    <item>
+      <title>Example Item 2</title>
+      <link>https://www.example.com/article2</link>
+      <description>This is the second example item in the RSS feed.</description>
+      <author>author@example.com</author>
+      <pubDate>Wed, 04 Sep 2024 08:30:00 +0000</pubDate>
+      <guid>https://www.example.com/article2</guid>
+    </item>
+
+    <item>
+      <title>Example Item 3</title>
+      <link>https://www.example.com/article3</link>
+      <description>This is the third example item in the RSS feed.</description>
+      <author>author@example.com</author>
+      <pubDate>Tue, 03 Sep 2024 14:15:00 +0000</pubDate>
+      <guid>https://www.example.com/article3</guid>
+    </item>
+  </channel>
+</rss>
