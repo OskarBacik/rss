@@ -39,12 +39,6 @@
     <item>
       <title>Example Article</title>
       <link>http://example.com/article</link>
-      <content:encoded>
-        <![CDATA[
-        <p>This is an example article that references an external resource.</p>
-        <p>Read more at whatever</p>
-        ]]>
-      </content:encoded>
     </item>
   </channel>
 </rss>
