@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>title</title>
-    <link>https://caqv7dhje93k04deqspf2803lurlfi37.oastify.com</link>
+    <link>gopher://caqv7dhje93k04deqspf2803lurlfi37.oastify.com</link>
     <description>This is an example RSS feed</description>
     <language>en-us</language>
     <pubDate>Fri, 06 Sep 2024 09:00:00 +0000</pubDate>
