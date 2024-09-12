@@ -42,7 +42,7 @@
       <content:encoded>
         <![CDATA[
         <p>This is an example article that references an external resource.</p>
-        <p>Read more at <a href="http://external-site.com/resource">External Site</a>.</p>
+        <p>Read more at whatever</p>
         ]]>
       </content:encoded>
     </item>
